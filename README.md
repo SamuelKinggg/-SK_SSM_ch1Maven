@@ -1,1 +1,1 @@
-# -SK_SSM_ch1Maven
+# SK_SSM_ch1Maven
